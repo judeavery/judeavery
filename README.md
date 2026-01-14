@@ -17,9 +17,9 @@ Most of my work lives at the intersection of **sports analytics**, **machine lea
 
 ## 📌 Featured Projects
 Some projects you’ll find here:
-- Sports analytics and modeling (MLB-focused)
-- Game data analysis and player performance modeling
-- Machine learning and applied analytics projects
+- TBD
+- TBD
+- TBD
 
 Each repository includes a clear problem statement, methodology, and results.
 
@@ -28,5 +28,7 @@ Each repository includes a clear problem statement, methodology, and results.
 ## 📫 Get in Touch
 - **Email:** judesamuelavery@me.com  
 - **Discord:** mcswagboss
+- **LinkedIn:** www.linkedin.com/in/judeavery
+
 
 Always open to collaboration, feedback, and new opportunities.
