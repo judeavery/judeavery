@@ -30,7 +30,7 @@ Each repository includes a clear problem statement, methodology, and results.
 - **Discord:** mcswagboss
 - **LinkedIn:** www.linkedin.com/in/judeavery
 
-Additional Interests: Sports, Esports, BJJ, MMA, Fitness
+Additional Interests: Sports, Esports, BJJ, MMA, Poker, Fitness
 
 
 Always open to collaboration, feedback, and new opportunities.
