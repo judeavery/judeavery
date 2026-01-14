@@ -1,6 +1,7 @@
 JUDE AVERY
-Current Data Science Student at the University of Texas at Dallas
-Currently learning SQL & Python!
+Data Scientist
+Graduate from the University of Texas at Dallas
+Proficient in Python, SQL, R, and others.
 reach me @
 discord - mcswagboss
 email - judesamuelavery@me.com
