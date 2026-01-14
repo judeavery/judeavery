@@ -1,4 +1,4 @@
-JUDE AVERY
+JUDE AVERY /ln
 Data Scientist
 Graduate from the University of Texas at Dallas
 Proficient in Python, SQL, R, and others.
