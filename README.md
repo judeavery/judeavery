@@ -5,6 +5,7 @@ I'm a data science graduate from the University of Texas at Dallas with a strong
 
 Most of my work lives at the intersection of **sports analytics**, **machine learning**, and **applied data analysis**, with a focus on projects that mirror real-world problems rather than classroom exercises.
 
+For some past school projects using ML, check out https://github.com/UTDallasArchiveJudeAvery
 ---
 
 ## 🧠 Skills & Tools
