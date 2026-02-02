@@ -18,7 +18,7 @@ For some past school projects using ML, check out https://github.com/UTDallasArc
 
 ## 📌 Featured Projects
 Some projects you’ll find here:
-- TBD
+- blackjack-variance-analysis (In progress)
 - TBD
 - TBD
 
