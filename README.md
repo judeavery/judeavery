@@ -19,7 +19,7 @@ For some past school projects using ML, check out https://github.com/UTDallasArc
 ## 📌 Featured Projects
 Some projects you’ll find here:
 - blackjack-variance-analysis (In progress)
-- TBD
+- sql-business-analytics (In progress)
 - TBD
 
 Each repository includes a clear problem statement, methodology, and results.
