@@ -8,7 +8,7 @@ Most of my work lives at the intersection of **sports analytics**, **machine lea
 For some past school projects using ML, check out https://github.com/UTDallasArchiveJudeAvery
 ---
 
-## 🧠 Skills & Tools
+## Skills & Tools
 - **Languages:** Python, SQL, R + more
 - **Libraries:** pandas, NumPy, scikit-learn, matplotlib, seaborn
 - **Data Science:** EDA, feature engineering, predictive modeling, evaluation  
@@ -16,7 +16,7 @@ For some past school projects using ML, check out https://github.com/UTDallasArc
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 Some projects you’ll find here:
 - blackjack-variance-analysis (In progress)
 - sql-business-analytics (In progress)
@@ -26,7 +26,7 @@ Each repository includes a clear problem statement, methodology, and results.
 
 ---
 
-## 📫 Get in Touch
+## Get in Touch
 - **Email:** judesamuelavery@me.com  
 - **Discord:** mcswagboss
 - **LinkedIn:** www.linkedin.com/in/judeavery
